@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "445711575918",
+    "project_id": "fir-authentification-fb7aa",
+    "storage_bucket": "fir-authentification-fb7aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445711575918:android:0b7090a03bf95777b6ef7f",
+        "android_client_info": {
+          "package_name": "com.example.firebase_authentification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkcTZE2Fp_eCKk1juaSS2bvzxkWUdskRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
